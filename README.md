@@ -83,13 +83,3 @@ Want to collaborate or discuss exciting projects? Feel free to reach out!
 [![Email Me](https://img.shields.io/badge/Email%20Me-Click%20Here-green?style=for-the-badge)](mailto:sanketpujari33@gmail.com)
 
 ---
-
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sanketpujari33&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sanketpujari33&theme=radical" alt="GitHub Streak" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sanketpujari33&layout=compact&theme=radical" alt="Top Languages" />
-</div>
-
----
